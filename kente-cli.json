@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "httpHello6",
+    "description": "B",
+    "title": "",
+    "author": "Shaun",
+    "adoTaskNumber": "1",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": false,
+      "repoName": "httpHello6"
+    },
+    "template": "serverless-template"
+  },
+  "runtime": {
+    "cli": "1.0.0",
+    "node": "v20.11.1",
+    "path": "httpHello6"
+  },
+  "version": "1.0.0"
+}
